@@ -1,3 +1,5 @@
+Tasks: Fine-Tuning BERT for classifying Tweet Sentiment  
+
 Packages: Pandas, Torch, Transformers
 
 model: BERT 'bert-base-uncased'
